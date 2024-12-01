@@ -20,12 +20,12 @@ global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilinkMode = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
-global.reactEmoji = '😂'; // Default reaction emoji
+global.reactEmoji = '💜'; // Default reaction emoji
 //Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
 //suppoet us by following our official channel
 //https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
